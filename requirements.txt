@@ -1,0 +1,1 @@
+# Fair Share needs no third-party packages: it uses only Python's standard library (Python 3.9+).
